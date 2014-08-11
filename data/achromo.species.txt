@@ -1,0 +1,6 @@
+AF411020  Ax1  Achromobacter xylosoxidans AU1011
+EU373389  Ax2  Achromobacter xylosoxidans TPL14
+AJ278451  Ax3  Achromobacter xylosoxidans denitrificans
+AF411019  Ax4  Achromobacter xylosoxidans AU0665
+DQ450530  Aa1  Alcaligenaceae bacterium LBM
+AJ002809  Aa2  Alcaligenes sp.

@@ -1,0 +1,16 @@
+AJ131916.1     Stenotrophomonas_maltophilia
+Z76653.1       Pseudomonas_alcaligenes_16S
+EU009197.1     Shigella_sonnei_FBD023
+
+L06164.1       Kingella_oralis
+EF522133.1     Comamonas_testosteroni_CU101
+
+AB053940.1     Tannerella_forsythensis_HA3
+L16469.1       Prevotella_melaninogenica_25845
+AF133536.1     Capnocytophaga_sputigena
+
+AY005045.1     Streptococcus_mitis_bv2
+AY485606.1     Streptococcus_gordonii_10558
+AY518677.1     Streptococcus_mitis_Sm91
+
+AJ401017.1     Thermotoga_maritima_SL7

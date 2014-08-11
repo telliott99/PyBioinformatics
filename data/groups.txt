@@ -1,0 +1,39 @@
+strep1
+AY005045     Streptococcus_mitis_bv2
+AB293402     Firmicutes_clone_CH-37
+D39          Streptococcus_pneumoniae_D39
+AY518677     Streptococcus_mitis_Sm91
+EF705292     Bacilli_clone_MS159A1_H02
+AB038371     Streptococcus_sp._PSH2
+FJ405281     Streptococcus_sp._F1
+
+strep2
+SK36         Streptococcus_sanguinis_SK36
+AY134908     Streptococcus_sp._12F
+AY211388     Streptococcus_clone_VA13408_01
+AB008313     Streptococcus_cristatus
+AY005042     Streptococcus_clone_BW009
+AB121930     Streptococcus_clone_BP2-57
+AM420202     Streptococcus_clone_502H08
+AY485606     Streptococcus_gordonii_10558
+
+strep3
+AF003933     Streptococcus_parasanguis
+DQ232536     Streptococcus_oralis_104985
+DQ016715     Streptococcus_clone_4.24
+
+strep4
+AF104671     Streptococcus_intermedius_ATCC27335
+AF145239     Streptococcus_anginosus_367
+
+strep5
+M58839       Streptococcus_salivarius
+AM696962     Uncultured_bacterium_BF0002A147
+
+strep6
+NEM316	     Streptococcus_agalactiae_NEM316
+X59032       Streptococcus_agalactiae_strain
+GAS          Streptococcus_pyogenes_M1_GAS
+
+strep7
+UA159        Streptococcus_mutans_UA159

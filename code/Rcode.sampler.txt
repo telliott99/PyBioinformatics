@@ -1,0 +1,24 @@
+setwd('Desktop')
+library(scatterplot3d)
+fn = 'distr1.txt'
+df = read.csv(fn,head=F)
+m = as.matrix(df)
+
+z = as.numeric(m)
+x = rep(1:10,each=10)
+y = rep(1:10,10)
+
+scatterplot3d(x,y,z,
+  type='h',pch=16,
+  cex.symbol=3,
+  cex.axis=2,
+  highlight.3d = T,
+  xlab='x',ylab='y',
+  zlab='z')
+
+
+fn = 'distr2.txt'
+df = read.csv(fn,head=F)
+m = as.matrix(df)
+image(m,
+  col=topo.colors(10))

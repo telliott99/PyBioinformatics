@@ -1,0 +1,382 @@
+ 
+REBASE version 110                                              proto.110
+ 
+    =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    REBASE, The Restriction Enzyme Database   http://rebase.neb.com
+    Copyright (c)  Dr. Richard J. Roberts, 2011.   All rights reserved.
+    =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ 
+Rich Roberts                                                    Sep 29 2011
+ 
+
+
+
+	    TYPE II ENZYMES
+	    ---------------
+
+AarI                           CACCTGC (4/8)
+AatII                          GACGT^C
+AbsI                           CC^TCGAGG
+AccI                           GT^MKAC
+AceIII                         CAGCTC (7/11)
+AciI                           CCGC (-3/-1)
+AclI                           AA^CGTT
+AcyI                           GR^CGYC
+AflII                          C^TTAAG
+AflIII                         A^CRYGT
+AgeI                           A^CCGGT
+AgsI                           TTS^AA
+AhaIII                         TTT^AAA
+AjuI                           (7/12) GAANNNNNNNTTGG (11/6)
+AlfI                           (10/12) GCANNNNNNTGC (12/10)
+AloI                           (7/12) GAACNNNNNNTCC (12/7)
+AluI                           AG^CT
+AlwFI                          GAAAYNNNNNRTG
+AlwNI                          CAGNNN^CTG
+AoxI                           ^GGCC
+ApaI                           GGGCC^C
+ApaBI                          GCANNNNN^TGC
+ApaLI                          G^TGCAC
+ApoI                           R^AATTY
+ApyPI                          ATCGAC (20/18)
+AquII                          GCCGNAC (20/18)
+AquIV                          GRGGAAG (19/17)
+ArsI                           (8/13) GACNNNNNNTTYG (11/6)
+AscI                           GG^CGCGCC
+AspBHI                         YSCNS (8/12)
+AspCNI                         GCCGC
+AsuI                           G^GNCC
+AsuII                          TT^CGAA
+AvaI                           C^YCGRG
+AvaII                          G^GWCC
+AvaIII                         ATGCAT
+AvrII                          C^CTAGG
+BaeI                           (10/15) ACNNNNGTAYC (12/7)
+BalI                           TGG^CCA
+BamHI                          G^GATCC
+BarI                           (7/12) GAAGNNNNNNTAC (12/7)
+BbvI                           GCAGC (8/12)
+BbvII                          GAAGAC (2/6)
+BbvCI                          CCTCAGC (-5/-2)
+BccI                           CCATC (4/5)
+Bce83I                         CTTGAG (16/14)
+BcefI                          ACGGC (12/13)
+BcgI                           (10/12) CGANNNNNNTGC (12/10)
+BciVI                          GTATCC (6/5)
+BclI                           T^GATCA
+BdaI                           (10/12) TGANNNNNNTCA (12/10)
+BetI                           W^CCGGW
+BfiI                           ACTGGG (5/4)
+BglI                           GCCNNNN^NGGC
+BglII                          A^GATCT
+BinI                           GGATC (4/5)
+BisI                           GC^NGC
+BmgI                           GKGCCC
+BplI                           (8/13) GAGNNNNNCTC (13/8)
+Bpu10I                         CCTNAGC (-5/-2)
+BsaAI                          YAC^GTR
+BsaBI                          GATNN^NNATC
+BsaXI                          (9/12) ACNNNNNCTCC (10/7)
+BsbI                           CAACAC (21/19)
+BscGI                          CCCGT
+BseMII                         CTCAG (10/8)
+BsePI                          G^CGCGC
+BseRI                          GAGGAG (10/8)
+BseSI                          GKGCM^C
+BseYI                          CCCAGC (-5/-1)
+BsgI                           GTGCAG (16/14)
+BsiI                           CACGAG (-5/-1)
+BsiYI                          CCNNNNN^NNGG
+BsmI                           GAATGC (1/-1)
+BsmAI                          GTCTC (1/5)
+Bsp24I                         (8/13) GACNNNNNNTGG (12/7)
+Bsp1407I                       T^GTACA
+BspGI                          CTGGAC
+BspHI                          T^CATGA
+BspLU11I                       A^CATGT
+BspMI                          ACCTGC (4/8)
+BspMII                         T^CCGGA
+BspNCI                         CCAGA
+BsrI                           ACTGG (1/-1)
+BsrBI                          CCGCTC (-3/-3)
+BsrDI                          GCAATG (2/0)
+BstEII                         G^GTNACC
+BstXI                          CCANNNNN^NTGG
+BtgZI                          GCGATG (10/14)
+BtrI                           CACGTC (-3/-3)
+BtsI                           GCAGTG (2/0)
+BtsIMutI                       CAGTG (2/0)
+Cac8I                          GCN^NGC
+CauII                          CC^SGG
+CchII                          GGARGA (11/9)
+CchIII                         CCCAAG (20/18)
+CdiI                           CATCG (-1/-1)
+CdpI                           GCGGAG (20/18)
+CfrI                           Y^GGCCR
+Cfr10I                         R^CCGGY
+CjeI                           (8/14) CCANNNNNNGT (15/9)
+CjeNII                         GAGNNNNNGT
+CjePI                          (7/13) CCANNNNNNNTC (14/8)
+CjeP659IV                      CACNNNNNNNGAA
+CjuI                           CAYNNNNNRTG
+CjuII                          CAYNNNNNCTC
+ClaI                           AT^CGAT
+CspCI                          (11/13) CAANNNNNGTGG (12/10)
+CstMI                          AAGGAG (20/18)
+CviJI                          RG^CY
+CviRI                          TG^CA
+DdeI                           C^TNAG
+DpnI                           GA^TC
+DraII                          RG^GNCCY
+DraIII                         CACNNN^GTG
+DraRI                          CAAGNAC (20/18)
+DrdI                           GACNNNN^NNGTC
+DrdII                          GAACCA
+DrdIV                          TACGAC (20/18)
+DsaI                           C^CRYGG
+Eam1105I                       GACNNN^NNGTC
+EciI                           GGCGGA (11/9)
+Eco31I                         GGTCTC (1/5)
+Eco47III                       AGC^GCT
+Eco57I                         CTGAAG (16/14)
+Eco57MI                        CTGRAG (16/14)
+EcoNI                          CCTNN^NNNAGG
+EcoRI                          G^AATTC
+EcoRII                         ^CCWGG
+EcoRV                          GAT^ATC
+EsaSSI                         GACCAC
+EspI                           GC^TNAGC
+Esp3I                          CGTCTC (1/5)
+FaiI                           YA^TR
+FalI                           (8/13) AAGNNNNNCTT (13/8)
+FauI                           CCCGC (4/6)
+FinI                           GGGAC
+FnuDII                         CG^CG
+Fnu4HI                         GC^NGC
+FokI                           GGATG (9/13)
+FseI                           GGCCGG^CC
+FspAI                          RTGC^GCAY
+FspEI                          CC (12/16)
+GdiII                          CGGCCR (-5/-1)
+GlaI                           GC^GC
+GsuI                           CTGGAG (16/14)
+HaeI                           WGG^CCW
+HaeII                          RGCGC^Y
+HaeIII                         GG^CC
+HaeIV                          (7/13) GAYNNNNNRTC (14/9)
+HgaI                           GACGC (5/10)
+HgiAI                          GWGCW^C
+HgiCI                          G^GYRCC
+HgiEII                         ACCNNNNNNGGT
+HgiJII                         GRGCY^C
+HhaI                           GCG^C
+Hin4I                          (8/13) GAYNNNNNVTC (13/8)
+Hin4II                         CCTTC (6/5)
+HindII                         GTY^RAC
+HindIII                        A^AGCTT
+HinfI                          G^ANTC
+HpaI                           GTT^AAC
+HpaII                          C^CGG
+HphI                           GGTGA (8/7)
+Hpy99I                         CGWCG^
+Hpy178III                      TC^NNGA
+Hpy188I                        TCN^GA
+KpnI                           GGTAC^C
+KroI                           G^CCGGC
+Ksp632I                        CTCTTC (1/4)
+LlaGI                          CTNGAYG
+LpnPI                          CCDG (10/14)
+MaeI                           C^TAG
+MaeII                          A^CGT
+MaeIII                         ^GTNAC
+MaqI                           CRTTGAC (21/19)
+MauBI                          CG^CGCGCG
+MboI                           ^GATC
+MboII                          GAAGA (8/7)
+McrI                           CGRY^CG
+MfeI                           C^AATTG
+MjaIV                          GTNNAC
+MluI                           A^CGCGT
+MmeI                           TCCRAC (20/18)
+MnlI                           CCTC (7/6)
+MseI                           T^TAA
+MslI                           CAYNN^NNRTG
+MspJI                          CNNR (9/13)
+MstI                           TGC^GCA
+MwoI                           GCNNNNN^NNGC
+NaeI                           GCC^GGC
+NarI                           GG^CGCC
+NcoI                           C^CATGG
+NdeI                           CA^TATG
+NgoAVIII                       (12/14) GACNNNNNTGA (13/11)
+NhaXI                          CAAGRAG
+NheI                           G^CTAGC
+NlaIII                         CATG^
+NlaIV                          GGN^NCC
+NlaCI                          CATCAC (19/17)
+NmeAIII                        GCCGAG (21/19)
+NotI                           GC^GGCCGC
+NruI                           TCG^CGA
+NspI                           RCATG^Y
+NspBII                         CMG^CKG
+OliI                           CACNN^NNGTG
+PacI                           TTAAT^TAA
+PasI                           CC^CWGGG
+PcsI                           WCGNNNN^NNNCGW
+Pfl1108I                       TCGTAG
+PflMI                          CCANNNN^NTGG
+PfoI                           T^CCNGGA
+PlaDI                          CATCAG (21/19)
+PleI                           GAGTC (4/5)
+PmaCI                          CAC^GTG
+PmeI                           GTTT^AAAC
+PpiI                           (7/12) GAACNNNNNCTC (13/8)
+PpuMI                          RG^GWCCY
+PshAI                          GACNN^NNGTC
+PsiI                           TTA^TAA
+PspOMII                        CGCCCAR (20/18)
+PspPRI                         CCYCAG (15/13)
+PspXI                          VC^TCGAGB
+PsrI                           (7/12) GAACNNNNNNTAC (12/7)
+PstI                           CTGCA^G
+PvuI                           CGAT^CG
+PvuII                          CAG^CTG
+RceI                           CATCGAC (20/18)
+RdeGBI                         CCGCAG
+RdeGBII                        ACCCAG (20/18)
+RdeGBIII                       (9/11) TGRYCA (11/9)
+RflFIII                        CGCCAG
+RlaI                           VCW
+RleAI                          CCCACA (12/9)
+RpaI                           GTYGGAG (11/9)
+RpaBI                          CCCGCAG (20/18)
+RpaB5I                         CGRGGAC (20/18)
+RsaI                           GT^AC
+RsrII                          CG^GWCCG
+SacI                           GAGCT^C
+SacII                          CCGC^GG
+SalI                           G^TCGAC
+SanDI                          GG^GWCCC
+SapI                           GCTCTTC (1/4)
+SauI                           CC^TNAGG
+ScaI                           AGT^ACT
+ScrFI                          CC^NGG
+SdeAI                          CAGRAG (21/19)
+SdeOSI                         (11/13) GACNNNNRTGA (12/10)
+SduI                           GDGCH^C
+SecI                           C^CNNGG
+SetI                           ASST^
+SexAI                          A^CCWGGT
+SfaNI                          GCATC (5/9)
+SfeI                           C^TRYAG
+SfiI                           GGCCNNNN^NGGCC
+SgeI                           CNNGNNNNNNNNN^
+SgfI                           GCGAT^CGC
+SgrAI                          CR^CCGGYG
+SgrDI                          CG^TCGACG
+SgrTI                          CCDS (10/14)
+SimI                           GGGTC (-3/0)
+SmaI                           CCC^GGG
+SmlI                           C^TYRAG
+SnaI                           GTATAC
+SnaBI                          TAC^GTA
+Sno506I                        GGCCGAG
+SpeI                           A^CTAGT
+SphI                           GCATG^C
+SplI                           C^GTACG
+SpoDI                          GCGGRAG
+SrfI                           GCCC^GGGC
+Sse232I                        CG^CCGGCG
+Sse8387I                       CCTGCA^GG
+Sse8647I                       AG^GWCCT
+SspI                           AAT^ATT
+SstE37I                        CGAAGAC (20/18)
+Sth132I                        CCCG (4/8)
+StuI                           AGG^CCT
+StyI                           C^CWWGG
+SwaI                           ATTT^AAAT
+TaqI                           T^CGA
+TaqII                          GACCGA (11/9), CACCCA (11/9)
+TatI                           W^GTACW
+TauI                           GCSG^C
+TfiI                           G^AWTC
+TseI                           G^CWGC
+TsoI                           TARCCA (11/9)
+Tsp45I                         ^GTSAC
+Tsp4CI                         ACN^GT
+TspDTI                         ATGAA (11/9)
+TspEI                          ^AATT
+TspGWI                         ACGGA (11/9)
+TspRI                          CASTGNN^
+TssI                           GAGNNNCTC
+TstI                           (8/13) CACNNNNNNTCC (12/7)
+TsuI                           GCGAC
+Tth111I                        GACN^NNGTC
+Tth111II                       CAARCA (11/9)
+UbaF9I                         TACNNNNNRTGT
+UbaF11I                        TCGTA
+UbaF12I                        CTACNNNGTC
+UbaF13I                        GAGNNNNNNCTGG
+UbaF14I                        CCANNNNNTCG
+UbaPI                          CGAACG
+VspI                           AT^TAAT
+WviI                           CACRAG (21/19)
+XbaI                           T^CTAGA
+XcmI                           CCANNNNN^NNNNTGG
+XhoI                           C^TCGAG
+XhoII                          R^GATCY
+XmaIII                         C^GGCCG
+XmnI                           GAANN^NNTTC
+
+
+
+	    TYPE I ENZYMES
+	    ---------------
+
+CfrAI                          GCANNNNNNNNGTGG
+Eco377I                        GGANNNNNNNNATGC
+Eco394I                        GACNNNNNRTAAY
+Eco585I                        GCCNNNNNNTGCG
+Eco646I                        CCANNNNNNNCTTC
+Eco777I                        GGANNNNNNTATC
+Eco826I                        GCANNNNNNCTGA
+Eco851I                        GTCANNNNNNTGAY
+Eco912I                        CACNNNNNTGGC
+EcoAI                          GAGNNNNNNNGTCA
+EcoBI                          TGANNNNNNNNTGCT
+EcoDI                          TTANNNNNNNGTCY
+EcoDR2                         TCANNNNNNGTCG
+EcoDR3                         TCANNNNNNNATCG
+EcoDXXI                        TCANNNNNNNRTTC
+EcoEI                          GAGNNNNNNNATGC
+EcoKI                          AACNNNNNNGTGC
+EcoR124I                       GAANNNNNNRTCG
+EcoR124II                      GAANNNNNNNRTCG
+EcoRD2                         GAANNNNNNRTTC
+EcoRD3                         GAANNNNNNNRTTC
+EcoprrI                        CCANNNNNNNRTGC
+KpnAI                          GAANNNNNNTGCC
+KpnBI                          CAAANNNNNNRTCA
+NgoAV                          GCANNNNNNNNTGC
+StyLTIII                       GAGNNNNNNRTAYG
+StySBLI                        CGANNNNNNTACC
+StySEAI                        ACANNNNNNTYCA
+StySGI                         TAANNNNNNRTCG
+StySJI                         GAGNNNNNNGTRC
+StySKI                         CGATNNNNNNNGTTA
+StySPI                         AACNNNNNNGTRC
+StySQI                         AACNNNNNNRTAYG
+
+
+
+	    TYPE III ENZYMES
+	    ---------------
+
+BceSI                          MMCGAAG (25/27)
+EcoPI                          AGACC (25/27)
+EcoP15I                        CAGCAG (25/27)
+HinfIII                        CGAAT
+NgoAX                          CCACC
+PstII                          CTGATG (25/27)
+StyLTI                         CAGAG
+

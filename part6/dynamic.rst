@@ -42,13 +42,13 @@ We analyze this as follows:  suppose that at some later time we were to find our
 
 Now, add another row::
 
-    53  44  89  26  35 
+        44  89  26  35 
       63  66  55  68  89
     04  62  75  98  23  09
 
-Suppose that we're at 89 in the first row.  From here, the choices are 66 and 55.  Should we choose 66?  No.  The best value achievable from 66 is 89 + 66 + 75 = 89 + 141 = 230.
+Suppose that we're at 89 in the first row.  From here, the choices are 66 and 55.  Should we choose 66?  The best value achievable from 66 is 66 + 75 = 141 and then 89 + 141 = 230.
 
-But the best value achievable from 55 is 89 + 55 + 98 = 242.  So from 89 we should go right to 55 and then right again to 98, *even though* 66 > 55.
+But the best value achievable from 55 is 55 + 98 = 153 and 89 + 153 = 242.  So from 89 we should go right to 55 and then right again to 98, *even though* 66 > 55.
 
 The way we will solve this problem in general is to have each position remember the maximum score that is achievable, and the path to get there.
 

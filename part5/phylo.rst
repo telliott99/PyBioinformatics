@@ -8,6 +8,8 @@ In this section, we're going to start with a list of half a dozen sequences in G
 
 Let's start with a file (``achromo.species.txt``) containing in columns the Genbank ids, a 'short name', a more complete name for each::
 
+.. sourcecode:: bash
+
     AF411020  Ax1  Achromobacter xylosoxidans AU1011
     EU373389  Ax2  Achromobacter xylosoxidans TPL14
     AJ278451  Ax3  Achromobacter xylosoxidans denitrificans

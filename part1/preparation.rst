@@ -115,15 +115,17 @@ c 99
 
 We assigned the label ``s`` to refer to a string, which is a single object that contains a sequence of text characters.  Then we loop through each character of the string, assign that value to ``c``, and then print both the value that ``c`` holds as well as its decimal equivalent.  Let's try it again with ``'\n'``
 
->>> s = 'abc\n'
->>> for c in s:
-...     print c, ord(c)
-... 
-a 97
-b 98
-c 99
+.. sourcecode:: python
 
-10
+    >>> s = 'abc\n'
+    >>> for c in s:
+    ...     print c, '*', ord(c)
+    ... 
+    a 97
+    b 98
+    c 99
+    
+    10
 
 When we did the print there, we actually got the newline.
 

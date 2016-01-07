@@ -42,7 +42,7 @@ You will notice that new files ``align.txt`` and ``tree.txt`` have appeared on t
 
 There are only two programs in this example so far, but there could be a dozen or a hundred.
 
-The third step we will take is to use R to plot the tree.  R is a little finicky.  One to do what we want is to write the R code to be executed into a text file like ``Rcode.txt``::
+The third step we will take is to use R to plot the tree.  R is a little finicky.  One way to do what we want is to write the R code to be executed into a text file like ``Rcode.txt``::
 
     library(ape)
     tr = read.tree('tree.txt')

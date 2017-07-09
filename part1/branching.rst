@@ -46,7 +46,6 @@ A variant of the ``while`` loop is to set the truth test to a value that is alwa
 
 >>> L = list()
 >>> s = 'AGCTAGCT'
->>> i = -1
 >>> while True:
 ...     i = s.find('A', i+1)
 ...     if i == -1:
